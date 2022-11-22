@@ -1,4 +1,4 @@
-<img align='right' src="https://res.cloudinary.com/dnzbhrg86/v1669066854/coding_atdbyq.gif" width="350" padding="10px">
+<img align='right' src="https://res.cloudinary.com/dnzbhrg86/v1669066854/coding_atdbyq.gif" width="300">
 
 ### Hi there 👋 I´m Alejandra
 
