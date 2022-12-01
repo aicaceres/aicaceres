@@ -17,7 +17,11 @@ Although I define myself as full-stack, I lean towards the backend because it is
 
 ⭐️ From [@aicaceres](https://github.com/aicaceres)
 
+
 <!--
+** github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicaceres&hide=php)](https://github.com/aicaceres/github-readme-stats)
+
 **aicaceres/aicaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
