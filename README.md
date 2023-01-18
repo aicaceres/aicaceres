@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I´m Alejandra
 
-I'm a Software Engineer, with more than 20 years of experience in software development, involved in the entire life cycle.
+I'm a Software Engineer, with years of experience in software development, involved in the entire life cycle.
 
 Currently, I have resumed my career as a developer by getting certified as a full-stack PERN doing projects in **_React_** with **_Express_** and **_NodeJs_**.
 
