@@ -4,12 +4,13 @@
 
 I'm a Software Engineer, with years of experience in software development, involved in the entire life cycle.
 
-Currently, I have resumed my career as a developer by getting certified as a full-stack PERN doing projects in **_React_** with **_Express_** and **_NodeJs_**.
+Currently, I work as a **_Full Stack Developer_** at Verifarma, using **_Laravel_** in the backend and **_Nuxt 3 with Vuetify_** in the frontend, under a Scrum methodology. I’m experienced in designing and implementing scalable APIs, working with microservices, and building dynamic SPAs.
 
-Previously I have worked mainly with **_PHP_** and **_Symfony_** framework and other technologies such as **_HTML, CSS, JavaScript, MySQL, and PostgreSQL_**. 
-<br>Throughout my career, I have participated in projects related to areas of debt management, health, tourism, auditing, and business management, among others.
+My background includes a solid foundation in **_PHP (Symfony, Laravel)_** and modern **_JavaScript frameworks (Vue, Nuxt, React)_**, along with experience in **_Node.js, Express, HTML/CSS_**, and diverse databases like **_MySQL**_, **_PostgreSQL**_ and **_MongoDB**_.
 
-Although I define myself as full-stack, I lean towards the backend because it is where I can bring my strengths in process logic and problem-solving.
+I've contributed to software solutions for industries such as **_healthcare, pharmaceuticals, auditing, tourism**_, and **_business management**_.
+
+Although I have a strong full-stack background, I have a growing preference for frontend development, where I enjoy translating ideas into user-centered interfaces and scalable design systems. I’m also increasingly drawn to the project management side of development, where I can contribute to planning, team coordination, and continuous improvement of the software delivery process.
 
 📫 **How to reach me:**
 - Email: alejandraicaceres@gmail.com
