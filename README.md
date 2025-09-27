@@ -6,9 +6,9 @@ I'm a Software Engineer, with years of experience in software development, invol
 
 Currently, I work as a **_Full Stack Developer_** at Verifarma, using **_Laravel_** in the backend and **_Nuxt 3 with Vuetify_** in the frontend, under a Scrum methodology. I’m experienced in designing and implementing scalable APIs, working with microservices, and building dynamic SPAs.
 
-My background includes a solid foundation in **_PHP (Symfony, Laravel)_** and modern **_JavaScript frameworks (Vue, Nuxt, React)_**, along with experience in **_Node.js, Express, HTML/CSS_**, and diverse databases like **_MySQL**_, **_PostgreSQL**_ and **_MongoDB**_.
+My background includes a solid foundation in **_PHP (Symfony, Laravel)_** and modern **_JavaScript frameworks (Vue, Nuxt, React)_**, along with experience in **_Node.js, Express, HTML/CSS_**, and diverse databases like **_MySQL_**, **_PostgreSQL_** and **_MongoDB_**.
 
-I've contributed to software solutions for industries such as **_healthcare, pharmaceuticals, auditing, tourism**_, and **_business management**_.
+I've contributed to software solutions for industries such as **_healthcare, pharmaceuticals, auditing, tourism_**, and **_business management_**.
 
 Although I have a strong full-stack background, I have a growing preference for frontend development, where I enjoy translating ideas into user-centered interfaces and scalable design systems. I’m also increasingly drawn to the project management side of development, where I can contribute to planning, team coordination, and continuous improvement of the software delivery process.
 
